@@ -1,5 +1,5 @@
 # LOCADORA NICHOLS - Versão Final Portfólio
-# Desenvolvido por Nicolas - Estácio ADS
+# Desenvolvido por Nicolas - Estácio 
 
 carros = {
     "1": {"nome": "Gol", "preco": 89, "disponivel": True},
